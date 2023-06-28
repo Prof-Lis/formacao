@@ -34,10 +34,20 @@ body{
     color: #ff9900;
     /*float: right;*/
 }
+
+.imagem-cabecalho{
+    float: left;
+}
 .secao1{
     padding: 20px;
     font-size: 14pt;
 }
 .item1{
     font-style: italic;
+}
+
+.fotoreceita1{
+    display: block;
+    float: left;
+
 }
