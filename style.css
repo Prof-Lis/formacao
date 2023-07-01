@@ -55,10 +55,11 @@ body{
 
 .fotoreceita1{
     position: relative;
+    margin: auto;
     /*display: block;*/
     float: left;
-    width: 70%;
-    height: 70%;
+    width: 50%;
+    height: 50%;
 }
 
 .ingredientes1{
